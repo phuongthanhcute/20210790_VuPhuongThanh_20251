@@ -28,7 +28,7 @@ Mạng Combiner bao gồm:
 
 ## 2. Cài đặt (Installation)
 ```bash
-git clone https://github.com/phuongthanhcute/CLIP4CIR_MoE_ver2.git ## Repo 
+git clone https://github.com/phuongthanhcute/20210790_VuPhuongThanh_20251.git ## Repo 
 cd CLIP4CIR_MoE_ver2
 conda create -n clip4cir -y python=3.8 # Tạo môi trường ảo conda python 3.8
 conda activate clip4cir # Kích hoạt môi trường ảo conda
